@@ -16,9 +16,9 @@ const App: React.FC = () => {
   level.addWorldObject(worldObject);
 
   game.startLevel(level);
-
+  
   return (
-    <div></div>
+    <div/>
   );
 }
 
